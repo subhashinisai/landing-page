@@ -49,3 +49,22 @@ margin-right: 10%;
 .sectioncont{
     margin-left: 10%;
 }
+.sectionB{
+  justify-content: center;
+  align-items: center;
+}
+.sectionBhead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sectionBdes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+.sectionBlogo{
+    margin-left: 25%;
+    
+}
