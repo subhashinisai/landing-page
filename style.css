@@ -68,3 +68,20 @@ margin-right: 10%;
     margin-left: 25%;
     
 }
+.sectionC{
+    justify-content: center;
+    align-items: center;
+}
+.sectionChead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkslategray;
+   
+}
+.sectionCdes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
