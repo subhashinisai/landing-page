@@ -180,4 +180,33 @@ display: flex;
 
    
    }
+   .sectionHhead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkslategray;
+    font-size: 350%;
+}  
+.sectionHbutton{
+    color: white;
+    background-color: green;
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-bottom: 5%;
+   margin-left: 50%;
+}
+.sectionH{
+    background-color: lightgrey;
+    padding-bottom: 1%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+    padding-top: 2%;
+    margin-right: 5%;
+    margin-left: 5%;
+   }
    
