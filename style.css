@@ -142,3 +142,42 @@ display: flex;
     font-size: 14px;
     margin-left: 38%;
 }
+.sectionF{
+    display: flex;
+    background-color: lightgray;
+    
+}
+.sectionFimg{
+    margin-left: 80%;
+    margin-top: 100%;
+    width: 400%;
+    padding-left: 80%;
+  
+}
+.sectionFlogo{
+    margin-right: 18%;
+    margin-top: 2%;
+      color: gray;
+      margin-left: 38%;
+}
+.sectionFdes{
+    margin-right: 18%;
+    margin-top: 7%;
+      color: gray;
+      margin-left: 38%;
+}
+.sectionFdest{
+    color: green;
+    margin-right: 18%;
+    margin-left: 38%;
+   
+}
+.sectionFdess{
+    
+    margin-right: 18%;
+    margin-left: 38%;
+    color: gray;
+
+   
+   }
+   
