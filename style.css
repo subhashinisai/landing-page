@@ -57,6 +57,7 @@ margin-right: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: darkslategray;
 }
 .sectionBdes{
     display: flex;
@@ -84,4 +85,30 @@ margin-right: 10%;
     justify-content: center;
     align-items: center;
     color: gray;
+}
+.sectionE{
+    display: flex;
+}
+.sectionEimg{
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 85%;
+}
+.sectionEhead{
+    margin-top: 18%;
+    color: darkslategray;
+    
+    }
+.sectionEdes{
+  margin-right: 30%;
+  margin-top: 4%;
+    color: gray;
+}
+.sectionEbutton{
+    color: white;
+    background-color: green;
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 14px;
 }
