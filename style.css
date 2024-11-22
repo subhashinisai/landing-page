@@ -278,3 +278,14 @@ display: flex;
     background-color: lightgray;
     
 }
+.placard{
+    border: 1px;
+    z-index: 10;
+    background-color:white;
+    position: relative;
+    border-radius: 10px;
+}
+.placardimg{
+    z-index: -1;
+    position: relative;
+}
